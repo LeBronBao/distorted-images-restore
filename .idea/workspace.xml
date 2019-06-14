@@ -43,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/train_art.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-2193">
@@ -53,6 +53,31 @@
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/datasets/persp_distorted_images/train_src/0.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datasets/persp_distorted_images/train_tar/0.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datasets/persp_distorted_images/new_persp_distorted_images/0.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datasets/persp_distorted_images/new_persp_distorted_images/16.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datasets/persp_distorted_images/new_persp_distorted_images/59.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -116,6 +141,22 @@
             <path>
               <item name="image_tilt" type="b2602c69:ProjectViewProjectNode" />
               <item name="image_tilt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="image_tilt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="image_tilt" type="462c0819:PsiDirectoryNode" />
+              <item name="datasets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="image_tilt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="image_tilt" type="462c0819:PsiDirectoryNode" />
+              <item name="datasets" type="462c0819:PsiDirectoryNode" />
+              <item name="persp_distorted_images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="image_tilt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="image_tilt" type="462c0819:PsiDirectoryNode" />
+              <item name="local_results" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -317,16 +358,15 @@
       <workItem from="1556582233435" duration="25000" />
       <workItem from="1556604000766" duration="64177000" />
       <workItem from="1557553242462" duration="5601000" />
-      <workItem from="1559262241561" duration="80483000" />
+      <workItem from="1559262241561" duration="81145000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="205541000" />
+    <option name="totallyTimeSpent" value="206203000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -379,15 +419,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/results/persp_distort_result/step2500.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/persp_distort_result/step3000.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/persp_distort_result/step6500.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/results/persp_distort_result/step6000.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -395,12 +426,6 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/datasets/persp_distorted_images/test/205.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/persp_distorted_images/train_tar/0.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datasets/persp_distorted_images/train_src/0.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/datasets/persp_distorted_images/test/187.jpg">
@@ -563,6 +588,21 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/persp_distorted_images/train_tar/0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/persp_distorted_images/new_persp_distorted_images/0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/persp_distorted_images/new_persp_distorted_images/16.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/persp_distorted_images/new_persp_distorted_images/59.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/persp_distorted_images/train_src/0.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
