@@ -20,10 +20,10 @@ from utils import (
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--model',type=str,default="results/art_chars/one_char_to_one_char/model_cn_step1500")
-parser.add_argument('--config',type=str,default="results/art_chars/one_char_to_one_char/config.json")
-parser.add_argument('--input_dir',type=str,default="test/one_art_char_input/")
-parser.add_argument('--output_dir',type=str,default="test/one_art_char_output/")
+parser.add_argument('--model',type=str,default="local_results/persp_distort_restore_result/model_cn_step4500")
+parser.add_argument('--config',type=str,default="local_results/persp_distort_restore_result/config.json")
+parser.add_argument('--input_dir',type=str,default="test/persp_distort_input/")
+parser.add_argument('--output_dir',type=str,default="test/persp_distort_output/")
 parser.add_argument('--img_size', type=int, default=256)
 
 
